@@ -10,7 +10,7 @@ The specification for this development board is as follows:
 * [N25Q032A](https://docs.rs-online.com/0866/0900766b80f7f8ab.pdf) 32 Mbit SPI flash
 * DB15 VGA port:
   * [ADV7123](https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7123-EP.pdf) RGB DAC
-* PS/2 keyboard with two channels for a mouse and keyboard
+* PS/2 port with two channels for a mouse and keyboard
 * I2C:
   * [DS3231M](https://www.analog.com/media/en/technical-documentation/data-sheets/ds3231m.pdf) RTC
   * [AT24C64](https://ww1.microchip.com/downloads/en/devicedoc/doc0336.pdf) EEPROM
